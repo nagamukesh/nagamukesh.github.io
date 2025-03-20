@@ -1,14 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: post
 title: Grapevine SDLC Model for Real-Time Fake News Classification
-date:   2025-03-20 13:12:21 +0530
+date: 2025-03-20 13:12:21 +0530
 categories: [Software Engineering,Software Development Life Cycle]
-author: [1,2] 
-
+authors: ["Konatham Naga Mukesh", "Tanay Praveen Shekokar"]
 ---
+
 ## **Introduction**
 
  Hey there! Have you ever wondered how software is built from scratch? Whether it’s a simple mobile app or a complex AI system, software development follows a well-defined process called the **Software Development Life Cycle (SDLC)**. 
