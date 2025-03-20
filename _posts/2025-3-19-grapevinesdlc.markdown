@@ -3,6 +3,7 @@ layout: post
 title: Grapevine SDLC Model for Real-Time Fake News Classification
 date: 2025-03-20 13:12:21 +0530
 categories: [Software Engineering,Software Development Life Cycle]
+tags: [Software Engineering,Software Development Life Cycle]
 authors: ["Konatham Naga Mukesh", "Tanay Praveen Shekokar"]
 ---
 
